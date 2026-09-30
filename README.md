@@ -82,6 +82,14 @@ Getting the network to find things was the easy half. Finding them was 42.7% wro
 
 Scale invariance, a 1.02M parameter cross-correlation net, sub-pixel refinement, CPU only, under 1.2 seconds per pair.
 
+### CMP Virtual Metrology
+
+[repo](https://github.com/Sachin0496/cmp-virtual-metrology) · removal-rate prediction and run-to-run control on real CMP tool data
+
+A CMP tool's removal rate drifts as the pad and the dresser wear out, and the controller that sets polish time only finds out when a wafer gets measured, which is sometimes, and late. I predicted every wafer's removal rate from the tool's own sensor logs (PHM 2016 data) and got an MSE of 4.28 on the official test set. The 2016 winner reported 7.07.
+
+Then I found out why that number is too good. One of the usage counters only ever goes up, so it's a clock, and the official test wafers sit in between training wafers in time. Predicting strictly from the past, the same model scores 38. A version without the clock gets 24.8, which is less impressive and actually usable. In a run-to-run simulation with 1 wafer in 10 measured and results 25 wafers late, feeding it to the controller took the share of wafers in spec from 80% to 88%. With instant metrology it adds nothing, and the README says that too.
+
 ### Colibri
 
 [repo](https://github.com/Sachin0496/colibri_for_qwen3.6_35B_A3B) · 35B MoE model on a 16GB laptop
@@ -137,7 +145,7 @@ Ask questions about FIR data in natural language and get guarded SQL back as tab
 Point it at a URL, get JSON, Markdown, HTML and PDF explaining why AI assistants don't surface the brand and why the visitors who do arrive leave. Eight composable agent skills. Standard library only, no install step.
 
 <details>
-<summary>and some others, since a list of eight looked suspiciously round</summary>
+<summary>and some others, since nine is already a lot of scrolling</summary>
 
 <br/>
 
@@ -151,7 +159,7 @@ On-device early warning for human-elephant conflict. YOLO gates a quantized 4B Q
 
 **Wafer-Map Defect Classification**
 
-811K wafer maps across 9 defect patterns with class weighting, per-class evaluation, SPC excursion monitoring via X-bar/R and EWMA and Western Electric rules, Cpk, yield models and SHAP attribution. I genuinely enjoy a good control chart. This is a personality flaw and I've made peace with it.
+811K wafer maps across 9 defect patterns with class weighting, per-class evaluation, SPC excursion monitoring via X-bar/R and EWMA and Western Electric rules, Cpk, yield models and SHAP attribution. I genuinely enjoy a good control chart. This is a personality flaw and I've made peace with it. The textbook chart flagged every single lot, which turned out to be because the lot yields are two populations taking turns, and separating them was the most fun part.
 
 **S.C.A.N**
 
