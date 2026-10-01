@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sachin A S. CSE '28, KPR Institute of Engineering and Technology, Coimbatore. ML for semiconductor inspection, 35B models on 16 GB laptops, agents that ask before they refund.">
+  <img src="assets/header.svg" width="100%" alt="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, 35B models on 16 GB laptops, agents that ask before they refund.">
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="whoami: third-year CSE, CGPA 8.41, which is academic for fine. Came for ML, now reading DRAM timing datasheets for fun. Last commit: the bug was in eval.py again, the model was fine.">
+  <img src="assets/terminal.svg" width="100%" alt="whoami: someone who reads the source to find out why. uptime: up continuously, 1 user, load average: 3 side projects. Last commit: the bug was in eval.py again, the model was fine.">
 </p>
 
 <p align="center">
