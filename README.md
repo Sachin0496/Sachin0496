@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="assets/header.svg?v=3" width="100%" alt="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, learning things the long way round.">
+  <img src="assets/header.39f35a72.svg" width="100%" alt="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, learning things the long way round.">
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg?v=3" width="100%" alt="whoami: someone who reads the source to find out why. uptime: up continuously, 1 user, load average: 3 side projects. Last commit: the bug was in eval.py again, the model was fine.">
+  <img src="assets/terminal.7ecac914.svg" width="100%" alt="whoami: someone who reads the source to find out why. uptime: up continuously, 1 user, load average: 3 side projects. Last commit: the bug was in eval.py again, the model was fine.">
 </p>
 
 <p align="center">
-  <img src="assets/divider-stack.svg?v=3" width="100%" alt="">
-  <img src="assets/stack.svg?v=3" width="100%" alt="Stack: Python, C, C++, Java, TypeScript, SQL, Bash, PyTorch, scikit-learn, OpenCV, XGBoost, NumPy, pandas, Hugging Face, llama.cpp, MLX, vLLM, MCP, LangChain, SEM, GDSII, SPC, SystemVerilog, perf, FastAPI, Docker, PostgreSQL, Redis, Qdrant, Celery, Next.js, Three.js, Grafana, AWS, Linux">
+  <img src="assets/divider-stack.7b6df070.svg" width="100%" alt="">
+  <img src="assets/stack.12661ee0.svg" width="100%" alt="Stack: Python, C, C++, Java, TypeScript, SQL, Bash, PyTorch, scikit-learn, OpenCV, XGBoost, NumPy, pandas, Hugging Face, llama.cpp, MLX, vLLM, MCP, LangChain, SEM, GDSII, SPC, SystemVerilog, perf, FastAPI, Docker, PostgreSQL, Redis, Qdrant, Celery, Next.js, Three.js, Grafana, AWS, Linux">
 </p>
 
 <p align="center">
-  <img src="assets/divider-receipts.svg?v=3" width="100%" alt="">
-  <img src="assets/receipts.svg?v=3" width="100%" alt="Receipts: 1st prize, Track 1, The Great Agent Hackathon by Freshworks (CrisisCrew). 1st runner-up, Applied Materials track, SEMICON India 2026 (DriftSense, ₹75,000). 2nd prize, Avanzare National Hackathon. Finalist, Caterpillar Tech Challenge (top 80 of 7,500+ teams). Finalist, Snapdragon Multiverse. Finalist, iQOO Hackathon, Chennai. NPTEL Star, IIT Madras. AI intern, Infosys Springboard.">
+  <img src="assets/divider-receipts.c1a68914.svg" width="100%" alt="">
+  <img src="assets/receipts.e1b74bb1.svg" width="100%" alt="Receipts: 1st prize, Track 1, The Great Agent Hackathon by Freshworks (CrisisCrew). 1st runner-up, Applied Materials track, SEMICON India 2026 (DriftSense, ₹75,000). 2nd prize, Avanzare National Hackathon. Finalist, Caterpillar Tech Challenge (top 80 of 7,500+ teams). Finalist, Snapdragon Multiverse. Finalist, iQOO Hackathon, Chennai. NPTEL Star, IIT Madras. AI intern, Infosys Springboard.">
 </p>
 
 <p align="center">
