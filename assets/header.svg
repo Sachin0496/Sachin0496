@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-label="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, 35B models on 16 GB laptops, agents that ask before they refund.">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-label="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, learning things the long way round.">
 <style>
 
 .hello { animation: fade .6s ease .05s both; }
 .name { animation: rise .9s cubic-bezier(.2,.8,.2,1) .25s both; }
 .bar { transform-box: fill-box; transform-origin: left center; animation: grow .7s cubic-bezier(.2,.8,.2,1) .9s both; }
 .meta { animation: fade .8s ease .7s both; }
-.tag { opacity: 0; animation: tag 12s ease-in-out infinite both; }
+.tag { opacity: 0; animation: tag 6s ease-in-out infinite both; }
 .tag.t0 { opacity: 1; }
 .dot { animation: blink 1.2s steps(2, jump-none) infinite; }
 .ping { transform-box: fill-box; transform-origin: center; animation: ping 2.2s cubic-bezier(0,0,.2,1) infinite; }
@@ -13,7 +13,7 @@
 @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
 @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
 @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-@keyframes tag { 0% { opacity: 0; transform: translateY(10px); } 4%, 21% { opacity: 1; transform: none; } 25%, 100% { opacity: 0; transform: translateY(-10px); } }
+@keyframes tag { 0% { opacity: 0; transform: translateY(10px); } 8%, 42% { opacity: 1; transform: none; } 50%, 100% { opacity: 0; transform: translateY(-10px); } }
 @keyframes blink { 0% { opacity: 1; } 100% { opacity: .15; } }
 @keyframes ping { 0% { opacity: .8; transform: scale(1); } 75%, 100% { opacity: 0; transform: scale(2.6); } }
 @keyframes ringfade { 0%, 2.143% { opacity: 0; } 4.286%, 90.000% { opacity: 1; } 94.286%, 100% { opacity: 0; } }
@@ -91,9 +91,7 @@
 <rect class="bar" x="42" y="146" width="64" height="3" rx="1.5" fill="#22d3ee"/>
 <text x="40" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#22d3ee">›</text>
 <text x="64" y="188" class="tag t0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#e6edf3" textLength="377.4" lengthAdjust="spacing" style="animation-delay:1.2s">figuring out how things actually work</text>
-<text x="64" y="188" class="tag t1" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#e6edf3" textLength="275.4" lengthAdjust="spacing" style="animation-delay:4.2s">35B models on 16 GB laptops</text>
-<text x="64" y="188" class="tag t2" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#e6edf3" textLength="346.8" lengthAdjust="spacing" style="animation-delay:7.2s">agents that ask before they refund</text>
-<text x="64" y="188" class="tag t3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#e6edf3" textLength="346.8" lengthAdjust="spacing" style="animation-delay:10.2s">learning things the long way round</text>
+<text x="64" y="188" class="tag t1" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#e6edf3" textLength="346.8" lengthAdjust="spacing" style="animation-delay:4.2s">learning things the long way round</text>
 <text class="meta" x="40" y="226" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">curious by default. building something most days.</text>
 <path class="e1" d="M556 92L650 54" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e2" d="M650 54L770 70" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e3" d="M770 70L812 150" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e4" d="M812 150L740 212" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e5" d="M740 212L628 200" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e6" d="M628 200L560 172" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e7" d="M560 172L690 136" stroke="#22d3ee" stroke-opacity="0.7" stroke-width="1.4" fill="none"/><path class="e100" d="M690 136L556 92" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.4" fill="none"/><path class="e101" d="M690 136L650 54" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.4" fill="none"/><path class="e102" d="M690 136L770 70" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.4" fill="none"/><path class="e103" d="M690 136L740 212" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.4" fill="none"/>
 <circle cx="556" cy="92" r="4.5" fill="#0b0f17" stroke="#3a4556" stroke-width="1.4"/>

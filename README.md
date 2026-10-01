@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, 35B models on 16 GB laptops, agents that ask before they refund.">
+  <img src="assets/header.svg" width="100%" alt="Sachin A S. Curious by default, building something most days. Figuring out how things actually work, learning things the long way round.">
 </p>
 
 <p align="center">
